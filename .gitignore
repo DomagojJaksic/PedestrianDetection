@@ -1,0 +1,7 @@
+CMakeLists.txt
+output
+*.png
+*.jpg
+*.jpeg
+*.vec
+.idea/
